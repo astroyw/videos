@@ -1,0 +1,51 @@
+1
+00:00:00,250 --> 00:00:01,246
+¿Escuchás eso?
+
+2
+00:00:01,450 --> 00:00:02,496
+Es gas escapando.
+
+3
+00:00:02,700 --> 00:00:03,622
+¿Cómo llegó ahí?
+
+4
+00:00:04,150 --> 00:00:05,703
+A la bebida le agregan
+
+5
+00:00:06,350 --> 00:00:08,529
+dióxido de carbono: CO₂.
+
+6
+00:00:09,200 --> 00:00:11,472
+Con el líquido frío y bajo presión,
+
+7
+00:00:11,950 --> 00:00:13,077
+el gas se disuelve.
+
+8
+00:00:15,200 --> 00:00:17,302
+Después la embotellan y la sellan,
+
+9
+00:00:18,300 --> 00:00:19,902
+manteniendo la presión.
+
+10
+00:00:21,150 --> 00:00:23,193
+Cuando la abrís, baja la presión.
+
+11
+00:00:23,550 --> 00:00:25,372
+El gas forma burbujas y sale.
+
+12
+00:00:27,150 --> 00:00:28,102
+No es magia.
+
+13
+00:00:28,300 --> 00:00:29,394
+Es gas disuelto.
