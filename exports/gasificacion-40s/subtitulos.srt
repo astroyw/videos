@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:02,500
+Al destaparla, el gas empieza a salir.
+
+2
+00:00:02,500 --> 00:00:05,000
+La gasificación empieza antes del embotellado.
+
+3
+00:00:05,000 --> 00:00:08,000
+Se agrega dióxido de carbono de uso alimentario.
+
+4
+00:00:08,000 --> 00:00:11,000
+El CO₂ entra en contacto con la bebida.
+
+5
+00:00:11,000 --> 00:00:14,000
+El frío ayuda a disolver más CO₂ a igual presión.
+
+6
+00:00:14,000 --> 00:00:17,000
+Más presión de CO₂ permite disolver más gas.
+
+7
+00:00:17,000 --> 00:00:20,000
+Las moléculas de CO₂ se distribuyen en el líquido.
+
+8
+00:00:20,000 --> 00:00:23,000
+El llenado a contrapresión reduce la pérdida de CO₂.
+
+9
+00:00:23,000 --> 00:00:26,000
+El cierre hermético ayuda a conservar el gas disuelto.
+
+10
+00:00:26,000 --> 00:00:29,000
+El líquido queda sobresaturado: empieza a liberar CO₂.
+
+11
+00:00:29,000 --> 00:00:32,000
+Pequeñas cavidades facilitan que nazcan burbujas.
+
+12
+00:00:32,000 --> 00:00:35,000
+El CO₂ disuelto entra en la burbuja y la hace crecer.
+
+13
+00:00:35,000 --> 00:00:38,000
+Las burbujas suben y liberan CO₂ en la superficie.
+
+14
+00:00:38,000 --> 00:00:40,000
+Frío + presión + CO₂.
