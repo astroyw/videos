@@ -1,0 +1,9 @@
+{
+  "method": "RGB mean absolute difference, HyperFrames animation, 2 samples/s, 108x108",
+  "samples": 120,
+  "pairsWithDifferenceAbove0_1": 119,
+  "pairs": 119,
+  "minMeanDifference": 0.1691243712848651,
+  "maxMeanDifference": 26.722022176497486,
+  "note": "Confirma variaci\u00f3n de imagen muestreada; no certifica calidad art\u00edstica ni continuidad de cada cuadro."
+}

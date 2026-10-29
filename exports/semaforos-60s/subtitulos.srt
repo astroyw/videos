@@ -1,0 +1,175 @@
+1
+00:00:00,035 --> 00:00:00,952
+¿Quién decide cuándo
+
+2
+00:00:00,998 --> 00:00:02,218
+cambia un semáforo?
+
+3
+00:00:03,046 --> 00:00:03,383
+No es la
+
+4
+00:00:03,430 --> 00:00:05,322
+lámpara, es un controlador.
+
+5
+00:00:06,023 --> 00:00:07,103
+Organiza el paso
+
+6
+00:00:07,149 --> 00:00:07,950
+de cada calle.
+
+7
+00:00:09,058 --> 00:00:09,871
+El verde habilita
+
+8
+00:00:09,917 --> 00:00:11,415
+una dirección del cruce.
+
+9
+00:00:12,035 --> 00:00:13,126
+Mientras tanto, la
+
+10
+00:00:13,173 --> 00:00:14,566
+calle transversal espera.
+
+11
+00:00:15,046 --> 00:00:16,057
+Después, el amarillo
+
+12
+00:00:16,103 --> 00:00:16,950
+anuncia que termina
+
+13
+00:00:16,997 --> 00:00:17,496
+el paso.
+
+14
+00:00:18,046 --> 00:00:18,685
+Luego llega el
+
+15
+00:00:18,708 --> 00:00:20,310
+rojo para esa dirección.
+
+16
+00:00:21,023 --> 00:00:21,894
+Puede existir una
+
+17
+00:00:21,952 --> 00:00:22,765
+pausa con todos
+
+18
+00:00:22,800 --> 00:00:23,368
+en rojo.
+
+19
+00:00:24,046 --> 00:00:24,778
+Así se despeja
+
+20
+00:00:24,813 --> 00:00:25,625
+el cruce antes
+
+21
+00:00:25,649 --> 00:00:26,276
+del cambio.
+
+22
+00:00:27,070 --> 00:00:28,335
+Recién entonces recibe
+
+23
+00:00:28,358 --> 00:00:29,380
+verde la otra calle.
+
+24
+00:00:30,035 --> 00:00:31,277
+Algunos equipos repiten
+
+25
+00:00:31,335 --> 00:00:32,473
+tiempos programados.
+
+26
+00:00:33,023 --> 00:00:34,544
+Otros reciben información
+
+27
+00:00:34,579 --> 00:00:35,543
+de sensores.
+
+28
+00:00:36,035 --> 00:00:36,766
+Por ejemplo, un
+
+29
+00:00:36,789 --> 00:00:38,287
+detector bajo el pavimento.
+
+30
+00:00:39,035 --> 00:00:40,196
+Reconoce vehículos y
+
+31
+00:00:40,242 --> 00:00:41,485
+avisa al controlador.
+
+32
+00:00:42,046 --> 00:00:43,033
+Eso puede ajustar
+
+33
+00:00:43,091 --> 00:00:44,252
+cuánto dura el verde.
+
+34
+00:00:45,046 --> 00:00:45,592
+Pero no cambia
+
+35
+00:00:45,627 --> 00:00:47,415
+las luces sin restricciones.
+
+36
+00:00:48,046 --> 00:00:48,894
+Ahora mirá varios
+
+37
+00:00:48,964 --> 00:00:50,218
+cruces de una avenida.
+
+38
+00:00:51,035 --> 00:00:51,882
+Sus ciclos pueden
+
+39
+00:00:51,952 --> 00:00:53,218
+coordinarse entre sí.
+
+40
+00:00:54,058 --> 00:00:54,650
+La idea es
+
+41
+00:00:54,673 --> 00:00:56,624
+reducir paradas, no eliminarlas.
+
+42
+00:00:57,058 --> 00:00:57,871
+Enviáselo a ese
+
+43
+00:00:57,917 --> 00:00:58,718
+amigo que discute
+
+44
+00:00:58,765 --> 00:00:59,450
+con el rojo.
