@@ -1,0 +1,157 @@
+{
+  "method": "Diferencias absolutas medias entre cuadros consecutivos, área del mundo visual sin título ni subtítulos, reducida a108×70.",
+  "frames": 1200,
+  "hardCutsInEdit": 0,
+  "maximumMeanAbsoluteDifference": 1.4177248677248677,
+  "highest": [
+    {
+      "frame": 958,
+      "difference": 1.4177248677248677
+    },
+    {
+      "frame": 956,
+      "difference": 1.375925925925926
+    },
+    {
+      "frame": 962,
+      "difference": 1.3751322751322752
+    },
+    {
+      "frame": 953,
+      "difference": 1.3716931216931216
+    },
+    {
+      "frame": 960,
+      "difference": 1.366137566137566
+    },
+    {
+      "frame": 963,
+      "difference": 1.364021164021164
+    },
+    {
+      "frame": 952,
+      "difference": 1.362037037037037
+    },
+    {
+      "frame": 951,
+      "difference": 1.359920634920635
+    },
+    {
+      "frame": 954,
+      "difference": 1.3466931216931217
+    },
+    {
+      "frame": 959,
+      "difference": 1.344973544973545
+    },
+    {
+      "frame": 955,
+      "difference": 1.3447089947089947
+    },
+    {
+      "frame": 957,
+      "difference": 1.3358465608465608
+    }
+  ],
+  "ranges": [
+    {
+      "id": "hook",
+      "fromFrame": 0,
+      "toFrameExclusive": 90,
+      "mean": 0.06733250104036621,
+      "max": 0.0832010582010582
+    },
+    {
+      "id": "radio",
+      "fromFrame": 90,
+      "toFrameExclusive": 180,
+      "mean": 0.0779843647821176,
+      "max": 0.13214285714285715
+    },
+    {
+      "id": "detectar",
+      "fromFrame": 180,
+      "toFrameExclusive": 270,
+      "mean": 0.11513286962725167,
+      "max": 0.1728835978835979
+    },
+    {
+      "id": "conectar",
+      "fromFrame": 270,
+      "toFrameExclusive": 360,
+      "mean": 0.07390612924320793,
+      "max": 0.12738095238095237
+    },
+    {
+      "id": "datos",
+      "fromFrame": 360,
+      "toFrameExclusive": 450,
+      "mean": 0.6020628975685155,
+      "max": 1.0563492063492064
+    },
+    {
+      "id": "paquetes",
+      "fromFrame": 450,
+      "toFrameExclusive": 540,
+      "mean": 0.25465489566613153,
+      "max": 0.4734126984126984
+    },
+    {
+      "id": "coordinar",
+      "fromFrame": 540,
+      "toFrameExclusive": 630,
+      "mean": 0.41543011711551053,
+      "max": 0.7768518518518519
+    },
+    {
+      "id": "canales",
+      "fromFrame": 630,
+      "toFrameExclusive": 720,
+      "mean": 0.6039400154568695,
+      "max": 0.9145502645502646
+    },
+    {
+      "id": "interferencia",
+      "fromFrame": 720,
+      "toFrameExclusive": 810,
+      "mean": 0.728167171987397,
+      "max": 1.3055555555555556
+    },
+    {
+      "id": "recibir",
+      "fromFrame": 810,
+      "toFrameExclusive": 900,
+      "mean": 0.7516571547470422,
+      "max": 1.086111111111111
+    },
+    {
+      "id": "sonido",
+      "fromFrame": 900,
+      "toFrameExclusive": 990,
+      "mean": 0.9210941680042803,
+      "max": 1.4177248677248677
+    },
+    {
+      "id": "internet",
+      "fromFrame": 990,
+      "toFrameExclusive": 1050,
+      "mean": 0.16058425253340514,
+      "max": 0.29894179894179895
+    },
+    {
+      "id": "resumen",
+      "fromFrame": 1050,
+      "toFrameExclusive": 1110,
+      "mean": 0.14638597435207604,
+      "max": 0.2097883597883598
+    },
+    {
+      "id": "cta",
+      "fromFrame": 1110,
+      "toFrameExclusive": 1200,
+      "mean": 0.12908269425123362,
+      "max": 0.1365079365079365
+    }
+  ],
+  "limitation": "No certifica fluidez ni detecta todos los cortes; requiere revisión de secuencias. hardCutsInEdit describe el montaje de un clip continuo, no una clasificación automática."
+}

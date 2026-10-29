@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:03,000
+¿Cómo llega la música sin un cable?
+
+2
+00:00:03,000 --> 00:00:06,000
+Bluetooth usa radio en la banda de 2,4 GHz.
+
+3
+00:00:06,000 --> 00:00:09,000
+Primero, los dispositivos se detectan.
+
+4
+00:00:09,000 --> 00:00:12,000
+Al emparejarlos, establecen una conexión.
+
+5
+00:00:12,000 --> 00:00:15,000
+El celular prepara el audio como datos.
+
+6
+00:00:15,000 --> 00:00:18,000
+Los envía en pequeños paquetes.
+
+7
+00:00:18,000 --> 00:00:21,000
+Coordinan cuándo transmitir y cuándo escuchar.
+
+8
+00:00:21,000 --> 00:00:24,000
+Y cambian de canal de forma coordinada.
+
+9
+00:00:24,000 --> 00:00:27,000
+Así reducen el efecto de las interferencias.
+
+10
+00:00:27,000 --> 00:00:30,000
+Los auriculares reciben y decodifican los datos.
+
+11
+00:00:30,000 --> 00:00:33,000
+Y los convierten en sonido.
+
+12
+00:00:33,000 --> 00:00:35,000
+El enlace no necesita internet.
+
+13
+00:00:35,000 --> 00:00:37,000
+Radio, datos y coordinación. Eso es Bluetooth.
+
+14
+00:00:37,000 --> 00:00:40,000
+Compartíselo a quien siempre usa auriculares.
