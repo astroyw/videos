@@ -1,0 +1,61 @@
+{
+  "zip": "receta-reels-motion-v3.zip",
+  "bytes": 1892502,
+  "sha256": "9d1f2ea090aebdce98df7bb546cf68323d95d6566cd5c76b1b9bdba3ad65ab74",
+  "files": 49,
+  "crc": "passed",
+  "extracted_manifest_hashes": 48,
+  "all_previous_paths_preserved": true,
+  "template_code_dependencies_assets_unchanged": true,
+  "csv": [
+    {
+      "file": "02-esqueleto-storyboard.csv",
+      "rows": 14,
+      "frames": 1200,
+      "scenes": 4
+    },
+    {
+      "file": "04-storyboard-continuo.csv",
+      "rows": 14,
+      "frames": 1200,
+      "scenes": 4
+    },
+    {
+      "file": "06-bluetooth-storyboard.csv",
+      "rows": 14,
+      "frames": 1200,
+      "scenes": 4
+    }
+  ],
+  "changed_paths": [
+    "receta-reels-motion/00-EMPEZA-ACA.md",
+    "receta-reels-motion/01-PROMPT-EDITABLE.md",
+    "receta-reels-motion/01-PROMPT-EDITABLE.txt",
+    "receta-reels-motion/02-RECETA-PARA-EL-AGENTE.md",
+    "receta-reels-motion/03-GUIA-VISUAL.md",
+    "receta-reels-motion/04-HOOKS-RETENCION-Y-CTA.md",
+    "receta-reels-motion/05-CONTROL-DE-CALIDAD.md",
+    "receta-reels-motion/06-INSTALACION-Y-SKILLS.md",
+    "receta-reels-motion/07-CONTINUIDAD-Y-ANIMACION.md",
+    "receta-reels-motion/AGENTS.md",
+    "receta-reels-motion/CAMBIOS-V2.md",
+    "receta-reels-motion/CLAUDE.md",
+    "receta-reels-motion/REFERENCIAS.md",
+    "receta-reels-motion/VERIFICACION.md",
+    "receta-reels-motion/ejemplos/01-ejemplo-gasificacion-40s.md",
+    "receta-reels-motion/ejemplos/02-esqueleto-storyboard.csv",
+    "receta-reels-motion/ejemplos/03-ventana-continuidad-40s.md",
+    "receta-reels-motion/ejemplos/04-storyboard-continuo.csv",
+    "receta-reels-motion/plantilla-remotion/AGENTS.md",
+    "receta-reels-motion/plantilla-remotion/CLAUDE.md",
+    "receta-reels-motion/plantilla-remotion/PRUEBAS.md",
+    "receta-reels-motion/plantilla-remotion/README.md",
+    "receta-reels-motion/MANIFEST.sha256"
+  ],
+  "new_paths": [
+    "receta-reels-motion/CAMBIOS-V3.md",
+    "receta-reels-motion/ejemplos/05-bluetooth-4-escenas-40s.md",
+    "receta-reels-motion/ejemplos/06-bluetooth-storyboard.csv"
+  ],
+  "new_video_rendered": false
+}
