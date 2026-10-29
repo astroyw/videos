@@ -1,0 +1,16 @@
+{
+  "file": "receta-reels-motion-v4.zip",
+  "bytes": 2052376,
+  "sha256": "6a1be881f4cadb04548d8c59bb7a7752f6d95d487d2d7d6547bf063cd4cfa306",
+  "entries": 99,
+  "crc": "passed",
+  "sha256Contents": 98,
+  "allV3PathsPreserved": true,
+  "legacySourcesIntact": 18,
+  "extractedInstall": "npm ci: passed, 261 packages",
+  "extractedChecks": "config sync, TypeScript and 12 tests passed",
+  "layout": "actual Karaoke component, center x=540, one and two lines",
+  "audioTest": "synthetic tone AAC only; -13.99 LUFS, -7.686138 dBFS; no narration",
+  "newVideoGenerated": false,
+  "fullVideoValidation": "not run"
+}
