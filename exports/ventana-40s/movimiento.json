@@ -1,0 +1,76 @@
+{
+  "method": "Dos muestras de la región del diagrama por parte, sin títulos, subtítulos ni barra de progreso.",
+  "limitation": "Detecta cambios visuales entre muestras. No verifica continuidad, fluidez ni precisión científica.",
+  "measurements": [
+    {
+      "id": "hook",
+      "meanAbsoluteDifference": 38.43471659919028,
+      "passed": true
+    },
+    {
+      "id": "perfiles",
+      "meanAbsoluteDifference": 23.628598740440847,
+      "passed": true
+    },
+    {
+      "id": "medidas",
+      "meanAbsoluteDifference": 0.5818151147098516,
+      "passed": true
+    },
+    {
+      "id": "cortes",
+      "meanAbsoluteDifference": 18.43758434547908,
+      "passed": true
+    },
+    {
+      "id": "mecanizados",
+      "meanAbsoluteDifference": 4.1066689158794425,
+      "passed": true
+    },
+    {
+      "id": "ensamble",
+      "meanAbsoluteDifference": 53.32090643274854,
+      "passed": true
+    },
+    {
+      "id": "escuadra",
+      "meanAbsoluteDifference": 22.211819613135404,
+      "passed": true
+    },
+    {
+      "id": "hoja",
+      "meanAbsoluteDifference": 23.07838506522717,
+      "passed": true
+    },
+    {
+      "id": "herrajes",
+      "meanAbsoluteDifference": 17.41115609536662,
+      "passed": true
+    },
+    {
+      "id": "vidrio",
+      "meanAbsoluteDifference": 4.955971659919029,
+      "passed": true
+    },
+    {
+      "id": "calzos",
+      "meanAbsoluteDifference": 9.64704228520018,
+      "passed": true
+    },
+    {
+      "id": "sellado",
+      "meanAbsoluteDifference": 6.561684660368871,
+      "passed": true
+    },
+    {
+      "id": "control",
+      "meanAbsoluteDifference": 19.669478182636077,
+      "passed": true
+    },
+    {
+      "id": "cta",
+      "meanAbsoluteDifference": 8.28778677462888,
+      "passed": true
+    }
+  ]
+}

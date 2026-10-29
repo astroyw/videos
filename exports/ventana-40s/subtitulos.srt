@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:03,000
+¿Cómo se fabrica una ventana?
+
+2
+00:00:03,000 --> 00:00:05,000
+Se parte de perfiles de aluminio.
+
+3
+00:00:05,000 --> 00:00:08,000
+Se define el tamaño de la abertura.
+
+4
+00:00:08,000 --> 00:00:11,000
+Los perfiles se cortan a medida.
+
+5
+00:00:11,000 --> 00:00:14,000
+Se preparan desagües y uniones.
+
+6
+00:00:14,000 --> 00:00:17,000
+Las escuadras unen las esquinas del marco.
+
+7
+00:00:17,000 --> 00:00:20,000
+El marco tiene que quedar a escuadra.
+
+8
+00:00:20,000 --> 00:00:23,000
+Otra estructura forma la hoja que se abre.
+
+9
+00:00:23,000 --> 00:00:26,000
+Se colocan bisagras y herrajes de cierre.
+
+10
+00:00:26,000 --> 00:00:29,000
+El vidrio se elige según el proyecto.
+
+11
+00:00:29,000 --> 00:00:32,000
+Los calzos sostienen y posicionan el vidrio.
+
+12
+00:00:32,000 --> 00:00:35,000
+Los junquillos sujetan; los burletes sellan.
+
+13
+00:00:35,000 --> 00:00:37,000
+Se comprueba que abra y cierre bien.
+
+14
+00:00:37,000 --> 00:00:40,000
+Compartíselo a quien está por renovar.
